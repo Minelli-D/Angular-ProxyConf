@@ -30,7 +30,7 @@ If you do not want edit angular.json:
 }
 ```
 
-# Solve strict Property Initialization 
+# Solve Srict Property Initialization 
 ### tsconfig.json
 
 ```javascript
